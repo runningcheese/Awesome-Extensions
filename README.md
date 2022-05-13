@@ -1,9 +1,5 @@
-# Awesome Extensions
-Awesome Extensions for Chrome, Edge and Firefox.
 
-
-
-# 年度最喜欢浏览器拓展
+# 2022 年度最喜欢浏览器拓展 - 中文网最全
 
 打造最值得收藏的浏览器拓展列表，欢迎点 ★Star，帮助更多的朋友发现这个项目。
 
